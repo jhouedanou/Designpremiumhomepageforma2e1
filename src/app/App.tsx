@@ -16,7 +16,7 @@ export default function App() {
             <img src="https://www.ma2e.ci/_assets/_img/logo.png" alt="MA2E" className="h-10 lg:h-12 w-auto" />
             <div className="hidden md:flex flex-col">
               <span className="text-[#003d1f] font-medium text-sm leading-tight">MA2E</span>
-              <span className="text-[#666666] text-[9px] uppercase tracking-[1.5px] leading-tight">Direction institutionnelle bancaire</span>
+              <span className="text-[#666666] text-[9px] uppercase tracking-[1.5px] leading-tight"> </span>
             </div>
           </a>
 
@@ -912,7 +912,7 @@ export default function App() {
           </div>
 
           <div className="border-t border-white/10 pt-8 flex flex-col sm:flex-row items-center justify-between gap-4">
-            <p className="text-white/40 text-sm text-center sm:text-left">© 2026 MA2E — Direction institutionnelle bancaire. Tous droits réservés.</p>
+            <p className="text-white/40 text-sm text-center sm:text-left">© 2026 MA2E —  . Tous droits réservés.</p>
             <div className="flex items-center gap-4 sm:gap-6">
               <a href="https://www.ma2e.ci/informations-legales/mentions-legales" className="text-white/40 hover:text-white transition-colors text-sm">Mentions légales</a>
               <a href="https://www.ma2e.ci/informations-legales/conditions-generales" className="text-white/40 hover:text-white transition-colors text-sm">Conditions générales</a>
